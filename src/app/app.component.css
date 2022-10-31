@@ -1,0 +1,18 @@
+h1,h2{
+    text-align-last: center;
+    color: darkgoldenrod;
+}
+a:link,a:hover{
+    background-color: orangered;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    margin-left: 100px;
+    margin-right: 105px;
+    margin-top: 100px;
+}
+a:hover,a:active{
+    background-color: darkred;
+}
